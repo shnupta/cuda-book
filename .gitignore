@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# CCLS
+.ccls-cache/
+
+# CMake
+build/

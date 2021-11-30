@@ -1,0 +1,3 @@
+%compile_commands.json
+%cu --cuda-path=/vol/cuda/11.2.1-cudnn8.1.0.77
+
