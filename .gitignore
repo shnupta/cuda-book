@@ -37,3 +37,6 @@
 # CMake
 build/
 compile_commands.json
+
+# Vim
+.*.swp
