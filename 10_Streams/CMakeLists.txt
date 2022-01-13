@@ -7,6 +7,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS YES)
 
 add_executable(CudaMallocTest cuda_malloc_test.cu)
 add_executable(SingleStream single_stream.cu)
+add_executable(MultipleStreams multiple_streams.cu)
 
 # find_package(GLUT REQUIRED)
 # find_package(OpenGL REQUIRED)
